@@ -1,6 +1,6 @@
 
 <br>
 
-### Look at you, learning Linux!
+### Look at you, learning Python!
 
-You solved this challenge!
+You have completed this challenge. Well done!
