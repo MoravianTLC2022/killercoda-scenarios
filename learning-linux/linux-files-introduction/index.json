@@ -1,6 +1,6 @@
 {
   "title": "Python Files Intro",
-  "description": "Let's learn some basic commands to work with files using Python.",
+  "description": "Let's learn some basic commands to work with files using Python in the terminal and the IDE.",
   "details": {
     "intro": {
       "text": "intro.md",
@@ -10,17 +10,14 @@
       {
         "title": "Create an empty file",
         "text": "step1/text.md",
-        "verify": "step1/verify.sh"
       },
       {
         "title": "Create a file with text",
         "text": "step2/text.md",
-        "verify": "step2/verify.sh"
       },
       {
         "title": "Delete a file",
         "text": "step3/text.md",
-        "verify": "step3/verify.sh"
       }
     ],
     "finish": {
