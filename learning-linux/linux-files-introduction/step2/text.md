@@ -1,17 +1,17 @@
 
-Create a new file named read.py in the new directory you just created `./my-new-file` with content about reading files
+Create a new file named random-city.txt in the new directory you just created `./my-new-file` with content about reading files
 
 <br>
 
 ### Solution
-We can use the command `nano' and when prompted we can simply write '#Program to read files':
+We can use the command `nano' and when prompted we can simply write a random city of your choosing:
 
 ```plain
-nano ./my-new-file/read.py
+nano ./my-new-file/random-city.txt
 ```{{exec}}
 
 And to verify we can run
 
 ```plain
-cat ./my-new-file/read.py
+cat ./my-new-file/random-city.txt
 ```{{exec}}
