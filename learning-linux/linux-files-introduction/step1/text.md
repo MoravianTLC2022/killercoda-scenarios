@@ -19,5 +19,5 @@ pwd
 Now we create the file
 
 ```plain
-touch my-new-file
+ mkdir my-new-file
 ```{{exec}}
