@@ -9,15 +9,15 @@
     "steps": [
       {
         "title": "Create an empty file",
-        "text": "step1/text.md",
+        "text": "step1/text.md"
       },
       {
         "title": "Create a file with text",
-        "text": "step2/text.md",
+        "text": "step2/text.md"
       },
       {
         "title": "Delete a file",
-        "text": "step3/text.md",
+        "text": "step3/text.md"
       }
     ],
     "finish": {
