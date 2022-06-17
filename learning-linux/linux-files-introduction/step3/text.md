@@ -19,16 +19,14 @@ touch ./read.py
 Now that we have a file to act as our script we can write in some simple code to read from the file.
 
 ```plain
-nano ./my-new-file/read.py  
+nano ./read.py  
 ```{{exec}}
 
 And inside the program we can use our tools to write 'file1 = open("random-city.txt","r+")' which will allow the python program to open the file and more specifically read.
 
 On the following lines down it will read:
 print("Our first city is ")
-
 print(file1.read())
-
 print()
 
 Now that the script itself is finished, we can then call the script using 'python read.py' and the city of your choosing that you wrote should be recalled promptly.
