@@ -1,5 +1,5 @@
 
-Now we're getting serious! Delete the file `/var/dont-need-this.png`
+Now we're getting serious! We can use the read.py as a python script to read from the file 'var/random-cities' if we so please. Delete the file `/var/dont-need-this.png`
 
 <br>
 
