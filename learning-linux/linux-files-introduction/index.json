@@ -20,6 +20,13 @@
         "text": "step3/text.md"
       }
     ],
+    "assets": {
+      "host01": [
+        {"file": "random_cities.txt", "target": "~/", "chmod": "+w"},
+        {"file": "random_cities.txt", "target": "/my/location", "chmod": "+w"},
+      ]
+    }
+  },
     "finish": {
       "text": "finish.md"
     }
