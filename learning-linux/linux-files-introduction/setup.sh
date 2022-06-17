@@ -1,1 +1,1 @@
-touch /var/dont-need-this.png
+touch /var/random_cities.txt
