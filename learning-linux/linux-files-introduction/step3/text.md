@@ -7,13 +7,13 @@ Now we're getting serious! We can use the read.py as a python script to read fro
 Check if the file is there using
 
 ```plain
-ls ./my-new-file/random-city.txt
+ls ./random-city.txt
 ```{{exec}}
 
 Now to create the python script we need to create the file for it to be run.
 
 ```plain
-touch ./my-new-file/read.py
+touch ./read.py
 ```{{exec}}
 
 Now that we have a file to act as our script we can write in some simple code to read from the file.
@@ -26,7 +26,9 @@ And inside the program we can use our tools to write 'file1 = open("random-city.
 
 On the following lines down it will read:
 print("Our first city is ")
+
 print(file1.read())
+
 print()
 
 Now that the script itself is finished, we can then call the script using 'python read.py' and the city of your choosing that you wrote should be recalled promptly.
