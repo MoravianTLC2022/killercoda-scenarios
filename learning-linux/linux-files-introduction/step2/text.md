@@ -1,13 +1,13 @@
 
-Create a new file in the new directory you just created `./my-new-file` with content `read.py`
+Create a new file named read.py in the new directory you just created `./my-new-file` with content about reading files
 
 <br>
 
 ### Solution
-We can use the command `touch`:
+We can use the command `nano' and when prompted we can simply write '#Program to read files':
 
 ```plain
-touch ./my-new-file/read.py
+nano ./my-new-file/read.py
 ```{{exec}}
 
 And to verify we can run
